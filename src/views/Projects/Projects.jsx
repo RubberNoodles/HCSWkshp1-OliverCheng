@@ -28,7 +28,7 @@ function Example(props) {
     return (
       <div>
         
-        <Link   to={{pathname:"https://instagram.com"}}
+        <Link   to={{pathname:"https://github.com/RubberNoodles/HCSWkshp1-OliverCheng"}}
             target="_blank"> 
             
             The git repo :)
